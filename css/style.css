@@ -1,0 +1,39 @@
+.w3-container{
+
+  background-color: transparent;
+
+
+}
+
+
+.weatherCard{
+margin-top: 200px;
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 150px;
+
+
+}
+
+#city{
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+table{
+
+color: red;
+}
+
+#temp{
+font-size: 100px;
+
+}
+
+#desc{
+font-size: 50px;
+ font-style: italic;
+color: gainsboro;
+
+}
