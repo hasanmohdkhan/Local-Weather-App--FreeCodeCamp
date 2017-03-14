@@ -10,8 +10,7 @@
 margin-top: 200px;
 margin-left: 200px;
 margin-right: 200px;
-margin-bottom: 150px;
-
+margin-bottom: 150px;  background-color: transparent;
 
 }
 
@@ -36,4 +35,10 @@ font-size: 50px;
  font-style: italic;
 color: gainsboro;
 
+}
+
+.body{
+
+background:repeat;
+background-size:100%;
 }
